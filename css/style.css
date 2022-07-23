@@ -186,7 +186,7 @@ img.people {
 /* navbar */
 .navbar {
     background: #e0e5ec;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     direction: ltr;
 }
 
@@ -229,7 +229,7 @@ img.people {
     width: 30px;
     height: 30px;
     border-radius: 6px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     line-height: 30px;
     text-align: center;
     font-size: 14px;
@@ -276,7 +276,7 @@ img.people {
 
 .toolbar-bottom .tab-link i {
     font-size: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     height: 46px;
     width: 46px;
@@ -293,7 +293,7 @@ img.people {
 
 .toolbar-bottom .tab-link-active i {
     color: #0078D7;
-    box-shadow: inset 3px 3px 3px -1px #b9bfd5, inset -3px -3px 3px -1px #fafafa;
+    box-shadow: inset 3px 3px 3px -1px #b9bfd5, inset -3px -3px 3px -1px #BDBDBD;
     height: 48px;
     width: 48px;
     line-height: 48px;
@@ -312,7 +312,7 @@ img.people {
 /*title home*/
 .title-home .content {
     text-align: center;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     padding: 18px;
     border-radius: 12px;
     background: #0078D7;
@@ -345,7 +345,7 @@ img.people {
 
 .features-home .content {
     border-radius: 12px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     padding: 18px;
     text-align: center;
 }
@@ -408,7 +408,7 @@ img.people {
 /*follow us*/
 .follow-us {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     text-align: center;
 }
@@ -436,7 +436,7 @@ img.people {
 /*share on*/
 .share-on {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     text-align: center;
 }
@@ -469,7 +469,7 @@ img.people {
 .list-li ul li {
     display: block;
     border-radius: 12px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     padding: 10px 16px 10px;
     margin-top: 18px;
 }
@@ -568,7 +568,7 @@ img.people {
 }
 
 .accordion .list ul li {
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     padding: 18px;
     margin-bottom: 18px;
@@ -699,7 +699,7 @@ img.people {
 /*badges*/
 .badges .list-box {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     padding-bottom: 0;
     padding-top: 0;
@@ -791,7 +791,7 @@ img.people {
 /*cards*/
 .card {
     background: transparent;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -818,7 +818,7 @@ img.people {
 /*icon*/
 .icon {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -833,7 +833,7 @@ img.people {
 /*list view*/
 .list-view {
     margin: 0;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     padding: 18px;
     padding-top: 0;
@@ -891,7 +891,7 @@ img.people {
 /*popover*/
 .popover-pages {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     padding-top: 0;
     padding-bottom: 0;
@@ -973,7 +973,7 @@ img.people {
 /*popup*/
 .popup-pages {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     padding-top: 0;
     padding-bottom: 0;
@@ -1168,7 +1168,7 @@ img.people {
 .tooltip-pages .content-box {
     padding: 18px;
     border-radius: 12px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .swiper-pagination-bullet {
@@ -1177,7 +1177,7 @@ img.people {
 
 /*about us*/
 .about-us .content {
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -1195,7 +1195,7 @@ img.people {
 
 /* blog */
 .blog .content {
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -1245,7 +1245,7 @@ img.people {
 /* form */
 .content-form {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -1257,7 +1257,7 @@ form input {
     color: #777 !important;
     border-radius: 12px !important;
     margin-bottom: 13px !important;
-    box-shadow: inset 3px 3px 3px -1px #b9bfd5, inset -3px -3px 3px -1px #fafafa !important;
+    box-shadow: inset 3px 3px 3px -1px #b9bfd5, inset -3px -3px 3px -1px #BDBDBD !important;
 }
 
 form textarea {
@@ -1268,7 +1268,7 @@ form textarea {
     color: #888 !important;
     border-radius: 12px !important;
     margin-bottom: 13px !important;
-    box-shadow: inset 3px 3px 3px -1px #b9bfd5, inset -3px -3px 3px -1px #fafafa !important;
+    box-shadow: inset 3px 3px 3px -1px #b9bfd5, inset -3px -3px 3px -1px #BDBDBD !important;
 }
 
 /* placeholder */
@@ -1295,7 +1295,7 @@ form textarea {
 /* career */
 .career .content {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -1347,14 +1347,14 @@ form textarea {
 /* clients */
 .client .content {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
 /* gallery */
 .gallery img {
     border-radius: 12px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .popup-gallery {
@@ -1396,7 +1396,7 @@ form textarea {
 .popup-gallery .popup-image {
     background: #e0e5ec;
     border-radius: 12px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .popup-gallery .popup-image img {
@@ -1416,7 +1416,7 @@ form textarea {
 
 /* maintenance */
 .maintenance .content-box {
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     padding: 18px;
     border-radius: 12px;
     text-align: center;
@@ -1490,7 +1490,7 @@ form textarea {
     text-align: center;
     border-radius: 12px;
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .page-not-found .content-box h2 {
@@ -1514,7 +1514,7 @@ form textarea {
 .pricing-table {
     text-align: center;
     border-radius: 12px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .pricing-table h3 {
@@ -1579,7 +1579,7 @@ form textarea {
 .services .content {
     display: flow-root;
     margin-bottom: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     padding: 18px;
 }
@@ -1596,7 +1596,7 @@ form textarea {
     display: inline-block;
     text-align: center;
     float: right;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .services .content .service-title h4 {
@@ -1623,7 +1623,7 @@ form textarea {
     text-align: center;
     line-height: 20px;
     font-size: 9px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .skill .skill-content .progress .determinate {
@@ -1663,7 +1663,7 @@ form textarea {
     padding: 24px 20px 20px;
     margin-bottom: 25px;
     border-radius: 12px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .home-walkthrough .content .icon-walk i {
@@ -1675,7 +1675,7 @@ form textarea {
     color: #fff;
     border-radius: 50%;
     background: #0078D7;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .home-walkthrough .content .text {
@@ -1769,7 +1769,7 @@ form textarea {
 
 /*reset password*/
 .reset-password .content-box {
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
     padding: 18px;
 }
@@ -1796,7 +1796,7 @@ form textarea {
     border-radius: 12px;
     width: 100%;
     padding: 16px 0;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .calendars-head {
@@ -1806,7 +1806,7 @@ form textarea {
     padding: 15px 0;
     margin-bottom: 20px;
     border-radius: 12px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .calendars-head i {
@@ -1833,7 +1833,7 @@ form textarea {
 /*profile*/
 .profile .content-box {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -1906,7 +1906,7 @@ form textarea {
 
 .about-profile {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -1942,7 +1942,7 @@ form textarea {
 .profile-edit .profile-user {
     text-align: center;
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -1956,7 +1956,7 @@ form textarea {
     height: 100%;
     margin: 0 auto;
     border-radius: 50%;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 .profile-edit .profile-user .content-image form input {
@@ -1977,7 +1977,7 @@ form textarea {
     cursor: pointer;
     background: #75b1f1;
     border-radius: 50%;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
 }
 
 /* logout */
@@ -1987,7 +1987,7 @@ form textarea {
 
 .logout .content {
     padding: 18px;
-    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #fafafa;
+    box-shadow: 3px 3px 3px #b9bfd5, -3px -3px 3px #BDBDBD;
     border-radius: 12px;
 }
 
@@ -2023,4 +2023,4 @@ form textarea {
 
 .closebtn:hover {
   color: black;
-	}
+		}
