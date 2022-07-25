@@ -84,6 +84,10 @@ var routes = [
     path: '/gallery/',
     url: './pages/gallery.html',
   },
+		  {
+    path: '/movieboxpro/',
+    url: './pages/movieboxpro.html',
+			},
   {
     path: '/maintenance/',
     url: './pages/maintenance.html',
