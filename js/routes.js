@@ -81,6 +81,10 @@ var routes = [
     url: './pages/instagram.html',
 			},
   {
+    path: '/tiktok/',
+    url: './pages/tiktok.html',
+			},
+  {
     path: '/features/',
     url: './pages/features.html',
   },
