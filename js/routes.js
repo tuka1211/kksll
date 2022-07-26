@@ -77,6 +77,10 @@ var routes = [
     url: './pages/move.html',
 			},
   {
+    path: '/instagram/',
+    url: './pages/instagram.html',
+			},
+  {
     path: '/features/',
     url: './pages/features.html',
   },
